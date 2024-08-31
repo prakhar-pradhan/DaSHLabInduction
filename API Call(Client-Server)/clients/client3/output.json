@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "clientId": 3,
+      "Prompt": "Hey AI",
+      "Message": "Hey there! What can I do for you today",
+      "TimeSent": 1724920541885,
+      "TimeRecvd": 1724920543878,
+      "Source": "Gemini"
+    },
+    {
+      "clientId": 3,
+      "Prompt": "What is eth?",
+      "Message": "\"ETH\" can refer to a few things, so I need a bit more context to understand what you're asking about. \n\nHere are some common meanings of \"ETH\":\n\n* **Ether (ETH):** This is the most likely meaning. **ETH** is the native cryptocurrency of the Ethereum blockchain. It is used to pay for gas fees (transaction costs) and to interact with smart contracts on the Ethereum network.\n* **Ethernet:** This is a common networking technology used for connecting computers and other devices on a local area network (LAN). \n* **Ethyl (Et):** This is a chemical group found in organic molecules. \n\nTo give you a better answer, please tell me:\n\n* **What is the context of your question?** Are you asking about the cryptocurrency, the networking technology, or something else? \n* **What are you trying to learn about ETH?** Are you interested in its price, its uses, or something else? \n\nOnce I have more information, I can give you a more helpful and accurate answer",
+      "TimeSent": 1724920541885,
+      "TimeRecvd": 1724920544179,
+      "Source": "Gemini"
+    }
+  ]
+]
